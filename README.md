@@ -97,19 +97,28 @@ Home:
 ![image](https://github.com/user-attachments/assets/a5aa9ccd-43dd-490a-a33c-49a1da19221a)
 
 Create new Business Card :
+
+
 ![image](https://github.com/user-attachments/assets/a0b773cb-1614-44b9-bc03-8187b014b2f3)
+
+
 
 List of BusinessCards:
 ![image](https://github.com/user-attachments/assets/536b5c8a-199f-4170-83f7-959d0fcbdefa)
 
 
 Business Card preview :
+
+
 ![image](https://github.com/user-attachments/assets/09a95d45-d875-41ae-9ba2-813ca0c4fd4a)
 
 ![image](https://github.com/user-attachments/assets/c49853c4-1e2d-4dcb-bf51-6eb0c2117a8d)
 
+
+
 Filter Popup :
 ![image](https://github.com/user-attachments/assets/8a26769c-2bf1-4fa3-9eef-a31f2793fd81)
+
 
 
 Validation Popup:
