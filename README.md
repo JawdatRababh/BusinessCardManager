@@ -7,6 +7,7 @@ BusinessCardManager is a web-based application for managing business cards, allo
 - Export business card data to CSV and XML.
 - Search and filter business card details by various fields.
 - Supports pagination and sorting.
+- View buiness card Template after create
 
 ## Technologies Used
 - **Backend**: .NET Core Web API (C#)
@@ -18,8 +19,9 @@ BusinessCardManager is a web-based application for managing business cards, allo
 ## Setup Instructions
 
 ### Prerequisites
-- .NET SDK (6.0+)
+- .NET SDK (8.0)
 - Node.js (14.x or higher)
+- Angular CLA(13.0.0.0)
 - SQL Server (LocalDB or full version)
 
 ### Steps to Run the Application Locally
@@ -58,7 +60,7 @@ Copy code
 ng serve
 The application should now be running on:
 
-Backend: https://localhost:5001
+Backend: https://localhost:44372 if it is run as IIS Express
 Frontend: http://localhost:4200
 Testing
 To run the backend unit tests:
