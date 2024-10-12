@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84323cf5-90f5-4af6-940d-b0a3d6275342)## Overview
+## Overview
 BusinessCardManager is a web-based application for managing business cards, allowing users to store, filter, and export business card information. It supports importing and exporting data in CSV and XML formats.
 
 ## Features
